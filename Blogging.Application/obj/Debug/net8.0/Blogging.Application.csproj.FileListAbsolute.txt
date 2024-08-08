@@ -1,0 +1,15 @@
+C:\Backend\Blogging\Blogging.Application\bin\Debug\net8.0\Blogging.Application.deps.json
+C:\Backend\Blogging\Blogging.Application\bin\Debug\net8.0\Blogging.Application.dll
+C:\Backend\Blogging\Blogging.Application\bin\Debug\net8.0\Blogging.Application.pdb
+C:\Backend\Blogging\Blogging.Application\bin\Debug\net8.0\Blogging.Domain.dll
+C:\Backend\Blogging\Blogging.Application\bin\Debug\net8.0\Blogging.Domain.pdb
+C:\Backend\Blogging\Blogging.Application\obj\Debug\net8.0\Blogging.Application.csproj.AssemblyReference.cache
+C:\Backend\Blogging\Blogging.Application\obj\Debug\net8.0\Blogging.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\Blogging\Blogging.Application\obj\Debug\net8.0\Blogging.Application.AssemblyInfoInputs.cache
+C:\Backend\Blogging\Blogging.Application\obj\Debug\net8.0\Blogging.Application.AssemblyInfo.cs
+C:\Backend\Blogging\Blogging.Application\obj\Debug\net8.0\Blogging.Application.csproj.CoreCompileInputs.cache
+C:\Backend\Blogging\Blogging.Application\obj\Debug\net8.0\Blogging.FC2DF758.Up2Date
+C:\Backend\Blogging\Blogging.Application\obj\Debug\net8.0\Blogging.Application.dll
+C:\Backend\Blogging\Blogging.Application\obj\Debug\net8.0\refint\Blogging.Application.dll
+C:\Backend\Blogging\Blogging.Application\obj\Debug\net8.0\Blogging.Application.pdb
+C:\Backend\Blogging\Blogging.Application\obj\Debug\net8.0\ref\Blogging.Application.dll

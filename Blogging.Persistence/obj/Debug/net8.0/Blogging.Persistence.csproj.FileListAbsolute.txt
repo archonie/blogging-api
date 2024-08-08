@@ -1,0 +1,17 @@
+C:\Backend\Blogging\Blogging.Persistence\bin\Debug\net8.0\Blogging.Persistence.deps.json
+C:\Backend\Blogging\Blogging.Persistence\bin\Debug\net8.0\Blogging.Persistence.dll
+C:\Backend\Blogging\Blogging.Persistence\bin\Debug\net8.0\Blogging.Persistence.pdb
+C:\Backend\Blogging\Blogging.Persistence\bin\Debug\net8.0\Blogging.Application.dll
+C:\Backend\Blogging\Blogging.Persistence\bin\Debug\net8.0\Blogging.Domain.dll
+C:\Backend\Blogging\Blogging.Persistence\bin\Debug\net8.0\Blogging.Application.pdb
+C:\Backend\Blogging\Blogging.Persistence\bin\Debug\net8.0\Blogging.Domain.pdb
+C:\Backend\Blogging\Blogging.Persistence\obj\Debug\net8.0\Blogging.Persistence.csproj.AssemblyReference.cache
+C:\Backend\Blogging\Blogging.Persistence\obj\Debug\net8.0\Blogging.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\Blogging\Blogging.Persistence\obj\Debug\net8.0\Blogging.Persistence.AssemblyInfoInputs.cache
+C:\Backend\Blogging\Blogging.Persistence\obj\Debug\net8.0\Blogging.Persistence.AssemblyInfo.cs
+C:\Backend\Blogging\Blogging.Persistence\obj\Debug\net8.0\Blogging.Persistence.csproj.CoreCompileInputs.cache
+C:\Backend\Blogging\Blogging.Persistence\obj\Debug\net8.0\Blogging.1A7FB910.Up2Date
+C:\Backend\Blogging\Blogging.Persistence\obj\Debug\net8.0\Blogging.Persistence.dll
+C:\Backend\Blogging\Blogging.Persistence\obj\Debug\net8.0\refint\Blogging.Persistence.dll
+C:\Backend\Blogging\Blogging.Persistence\obj\Debug\net8.0\Blogging.Persistence.pdb
+C:\Backend\Blogging\Blogging.Persistence\obj\Debug\net8.0\ref\Blogging.Persistence.dll

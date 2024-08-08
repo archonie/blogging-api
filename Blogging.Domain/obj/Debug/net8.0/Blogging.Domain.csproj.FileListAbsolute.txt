@@ -1,0 +1,11 @@
+C:\Backend\Blogging\Blogging.Domain\bin\Debug\net8.0\Blogging.Domain.deps.json
+C:\Backend\Blogging\Blogging.Domain\bin\Debug\net8.0\Blogging.Domain.dll
+C:\Backend\Blogging\Blogging.Domain\bin\Debug\net8.0\Blogging.Domain.pdb
+C:\Backend\Blogging\Blogging.Domain\obj\Debug\net8.0\Blogging.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\Blogging\Blogging.Domain\obj\Debug\net8.0\Blogging.Domain.AssemblyInfoInputs.cache
+C:\Backend\Blogging\Blogging.Domain\obj\Debug\net8.0\Blogging.Domain.AssemblyInfo.cs
+C:\Backend\Blogging\Blogging.Domain\obj\Debug\net8.0\Blogging.Domain.csproj.CoreCompileInputs.cache
+C:\Backend\Blogging\Blogging.Domain\obj\Debug\net8.0\Blogging.Domain.dll
+C:\Backend\Blogging\Blogging.Domain\obj\Debug\net8.0\refint\Blogging.Domain.dll
+C:\Backend\Blogging\Blogging.Domain\obj\Debug\net8.0\Blogging.Domain.pdb
+C:\Backend\Blogging\Blogging.Domain\obj\Debug\net8.0\ref\Blogging.Domain.dll
